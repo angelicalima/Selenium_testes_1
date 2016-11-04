@@ -7,7 +7,7 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "unittest_teste", "unittest1
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "seleniumWebdriver_teste", "seleniumWebdriver_testes\seleniumWebdriver_teste.pyproj", "{86C29D4D-CFB0-469B-8294-3AD096DF9334}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "seleniumWebdriver_Xpath", "seleniumWebdriver_Xpath\seleniumWebdriver_Xpath.pyproj", "{38DE2C3C-BEC4-4851-B5A6-EE09F32FB079}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "seleniumWebdriver_Xpath", "PythonApplication1\seleniumWebdriver_Xpath.pyproj", "{38DE2C3C-BEC4-4851-B5A6-EE09F32FB079}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
